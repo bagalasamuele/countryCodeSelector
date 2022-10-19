@@ -1,5 +1,5 @@
 <template>
-<div>Hi! i'm samuele</div>
+<h4 class="bg-salmon">Hi! i'm samuele bagala</h4>
 </template>
 
 <script>
