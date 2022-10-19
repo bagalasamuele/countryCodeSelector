@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+<div>Hi! i'm samuele</div>
 </template>
 
 <script>
